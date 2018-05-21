@@ -1,2 +1,2 @@
 # ToDoList-Web-App
-ToDoList WebApp Made With ( Html, CSS , Jquery )
+ToDoList Web App Made With ( Html, CSS , Jquery )
